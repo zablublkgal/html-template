@@ -1,2 +1,8 @@
 /* CSS styles */
 
+h1 {
+color: pink;
+  font-family: sans-serif;
+  font-weight: normal;
+    font-style: italic;
+}
